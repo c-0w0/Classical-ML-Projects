@@ -1,5 +1,0 @@
-res://scenes/game.tscn
-res://scenes/passenger.tscn
-res://batch_env.tscn
-res://scripts/passenger.gd
-res://scripts/ai_controller_2d.gd
