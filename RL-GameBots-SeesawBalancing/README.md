@@ -4,6 +4,12 @@ This is a project to showcase reinforcement learning implementation in Godot. Th
 ![image](https://github.com/user-attachments/assets/0a0f1ee0-31eb-42cd-b4aa-49de317c77fb)
 ![image](https://github.com/user-attachments/assets/03ac92ce-f43c-4446-bf82-cde04bdda918)
 
+# Idea
+1. Godot game with rigid bodies that inherits simulated physics.
+2. Giving control to AI model with conditions for reward & punishment to achieve reinforcemet learning.
+3. Speed up the game to speed up the training progress.
+4. Duplicate the scene 8 times to further speed up the training.
+
 # Usage
 ## To run the project for the first time: 
 1. Create a folder to hold the project files.
